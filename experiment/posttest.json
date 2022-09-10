@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The property of a soil that allows it to be deformed rapidly, without rupture is ______ .",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Elasticity",
+        "b": "Plasticity",
+        "c": "Tenacity",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The Swedish agriculturist who divided the entire range of consistency from liquid to solid state is __________ .",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Dupuit’s",
+        "b": "Laplace",
+        "c": "Boussinesq",
+        "d": "Atterberg"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following is not useful for engineer purposes, as proposed by Atterberg?",
+      "answers": {
+        "a": "Plastic limit",
+        "b": "Liquid limit",
+        "c": "Shrinkage limit",
+        "d": "Solid limit"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Clay does not become plastic when mixed with ___________ .",
+      "answers": {
+        "a": "Kerosene",
+        "b": "Oil",
+        "c": "Soap solution",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "In consistency of soil, the limits are expressed in terms of__________ .",
+      "answers": {
+        "a": "Area",
+        "b": "Percent water content",
+        "c": "Volume",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
     }
   ]
 }
