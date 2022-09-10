@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": " The liquid limit can be defined as the arbitrary limit of water content at which the soil is just about to pass from the _____ state into the _______ state.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Liquid to solid",
+        "b": "Plastic to solid",
+        "c": "Liquid to plastic",
+        "d": "Plastic state to liquid"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The plastic limit is the water content where soil starts to exhibit _________ behaviour.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Liquid",
+        "b": "Semi solid",
+        "c": "Plastic",
+        "d": "solid"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "The codebook referred for conducting liquid limit, and the plastic limit is _________________________ .",
+      "answers": {
+        "a": "IS : 2720 part 5 1975",
+        "b": "IS : 2720 part 5 1985",
+        "c": "IS : 2720 part 6 1975",
+        "d": "IS : 2720 part 6 1985"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Plasticity index can be calculated by _________________ .",
+      "answers": {
+        "a": "Ip= LL – PL",
+        "b": "Ip= PL – LL",
+        "c": "Ip= PL + LL",
+        "d": "Ip= LL + PL"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "If the value of the liquid limit is less than 35%, then the compressibility is _____.",
+      "answers": {
+        "a": "High",
+        "b": "Tamping",
+        "c": "Low",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
     }
   ]
 }
