@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The property of a soil that allows it to be deformed rapidly, without rupture is ______ .",
+      "answers": {
+        "a": "Elasticity",
+        "b": "Plasticity",
+        "c": "Tenacity",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The Swedish agriculturist who divided the entire range of consistency from liquid to solid state is __________ .",
+      "answers": {
+        "a": "Dupuit’s",
+        "b": "Laplace",
+        "c": "Boussinesq",
+        "d": "Atterberg"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following is not useful for engineer purposes, as proposed by Atterberg?",
+      "answers": {
+        "a": "Plastic limit",
+        "b": "Liquid limit",
+        "c": "Shrinkage limit",
+        "d": "Solid limit"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Clay does not become plastic when mixed with ___________ .",
+      "answers": {
+        "a": "Kerosene",
+        "b": "Oil",
+        "c": "Soap solution",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "In consistency of soil, the limits are expressed in terms of__________ .",
+      "answers": {
+        "a": "Area",
+        "b": "Percent water content",
+        "c": "Volume",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}
