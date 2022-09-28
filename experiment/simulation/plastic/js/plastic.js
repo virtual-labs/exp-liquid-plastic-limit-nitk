@@ -927,6 +927,7 @@ function magic()
 	}
 	else if(simsubscreennum == 13)
 	{
+		document.querySelector("#mark1").style.visibility="hidden";
 		$("#13-1").fadeIn(1000);
 		setTimeout(function()
 		{

@@ -1173,7 +1173,7 @@ function validateAnswer(id,ans,mark,chk,res)
 				setTimeout(function()
 				{
 					document.getElementById("plas").style.visibility="visible";
-					document.getElementById("plas").innerHTML="Plastic limit of given soil sample = "+ans.toFixed(2)+"%";
+					document.getElementById("plas").innerHTML="Liquid limit of given soil sample = "+ans.toFixed(2)+"%";
 					document.getElementById("nextButton").style.visibility="visible";
 				},500);
 			}
@@ -1220,7 +1220,7 @@ function validateAnswer(id,ans,mark,chk,res)
 			setTimeout(function()
 			{
 				document.getElementById("plas").style.visibility="visible";
-				document.getElementById("plas").innerHTML="Plastic limit of given soil sample = "+ans.toFixed(2)+"%";
+				document.getElementById("plas").innerHTML="Liquid limit of given soil sample = "+ans.toFixed(2)+"%";
 				document.getElementById("nextButton").style.visibility="visible";
 			},500);
 		}
