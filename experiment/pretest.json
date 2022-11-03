@@ -64,7 +64,7 @@
         "a": "Correct answer. The Plasticity Index is defined as the range of moisture contents over which the soil deforms plastically, hence this phenomena ranges between the liquid and plastic limit.",
         "b": "The Plasticity Index is defined as the range of moisture contents over which the soil deforms plastically, hence this phenomena ranges between the liquid and plastic limit, as plastic limit is a lower value than liquid limit, we will be obtaining a negative value which is not true.",
         "c": "The Plasticity Index is defined as the range of moisture contents over which the soil deforms plastically, hence this phenomena ranges between the liquid and plastic limit and not the addition of liquid limit and plastic limit.",
-        "d": The Plasticity Index is defined as the range of moisture contents over which the soil deforms plastically, hence this phenomena ranges between the liquid and plastic limit and not the addition of liquid limit and plastic limit.
+        "d": "The Plasticity Index is defined as the range of moisture contents over which the soil deforms plastically, hence this phenomena ranges between the liquid and plastic limit and not the addition of liquid limit and plastic limit."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -73,7 +73,7 @@
       "question": "If the value of the liquid limit is less than 35%, then the compressibility is _____.",
       "answers": {
         "a": "High",
-        "b": "intermediate",
+        "b": "Intermediate",
         "c": "Low",
         "d": "None of the above"
       },
