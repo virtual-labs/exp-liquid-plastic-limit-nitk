@@ -81,7 +81,7 @@
         "a": "If the liquid limit of soil is greater than 50%, then the soil can be classified as high compressibility.",
         "b": "If the liquid limit of soil is less than 35%, then the soil can be classified as Low compressibility.It is not considered as intermediate. The value ranges between 35-50%.",
         "c": "Correct answer. If the liquid limit of soil is less than 35%, then the soil can be classified as Low compressibility.",
-        "d": "The correct answer is if the liquid limit is less than 35% then the compressibility is low. As one of the options given above is correct, option “none of the above” is incorrect."
+        "d": "The correct answer is if the liquid limit is less than 35% then the compressibility is low. As one of the options given above is correct, option 'none of the above' is incorrect."
       },
       "correctAnswer": "c",
       "difficulty": "advanced"
