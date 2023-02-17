@@ -1,9 +1,9 @@
-<table style="text-align:justify;">
-<tr style="background-color:transparent;">
+<table style="text-align: justify;">
+<tr style="background-color: transparent;">
   <th>References</th>
     <th>Contributors list</th>
   </tr>
-  <tr style="background-color:transparent;">
+  <tr style="background-color: transparent;">
   <td>
     1. Codebook IS : IS: 2720 (Part 5) 1985.</br></br>
     2. Soil Mechanics and Foundation Engineering by Dr. B.C. Punmia. Laxmi Publications.</br></br>
@@ -16,8 +16,8 @@
     <li>Anusha B Salian | NITK</li>
     <li>Guruprasad T N | NITK</li>
     <li>Aishwarya Shetty | NITK</li>
-    <li>Mahima | NITK</li>
-    <li>Ashika | NITK</li>
+    <li>Mahima N| NITK</li>
+    <li>Ashika Pai| NITK</li>
     </ul></td>
   </tr>
 </table>

@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": " The liquid limit can be defined as the arbitrary limit of water content at which the soil is just about to pass from the _____ state into the _______ state.",
+      "question": "The liquid limit can be defined as the arbitrary limit of water content at which the soil is just about to pass from the _____ state into the _______ state.",
       "answers": {
         "a": "Liquid to solid",
         "b": "Plastic to solid",
@@ -10,7 +10,7 @@
         "d": "Plastic state to liquid"
       },
       "explanations": {
-		"a": "According to the definition of atterberg's limit, the liquid limit is defined as the limit of water content at which the soil changes from plastic state to liquid state and not liquid to solid state.",
+		    "a": "According to the definition of atterberg's limit, the liquid limit is defined as the limit of water content at which the soil changes from plastic state to liquid state and not liquid to solid state.",
         "b": "According to the definition of atterberg's limit, the liquid limit is defined as the limit of water content at which the soil changes from plastic state to liquid state and not plastic to solid state.",
         "c": "According to the definition of atterberg's limit, the liquid limit is defined as the limit of water content at which the soil changes from plastic state to liquid state and not liquid to plastic state.",
         "d": "Correct answer. According to the definition of atterberg's limit, the liquid limit is defined as the limit of water content at which the soil changes from plastic state to liquid state."
