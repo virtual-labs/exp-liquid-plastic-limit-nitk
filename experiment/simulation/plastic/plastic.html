@@ -64,7 +64,7 @@ var temp=0;
 <img style="position:absolute; left:500px; top:318px; width:12%" title = "425&micro;m sieve" src="images/1a.png" />
 <img style="position:absolute; left:190px; top:292px; width:17.5%;"  title = "Weighing Machine" src="images/wm1.png" />
 &nbsp;<span class="tooltip" style="border-bottom:1px dotted ; color:red; top:20px; cursor:pointer;"><strong>Description</strong>
-<span  class="tooltiptext" style="font-size:14px; text-align:justify;">The <span style="color:red; font-weight:bold;">plastic limit</span> is one of the measured parameters of the Atterberg limits, which is used for differentiating the consistency states of finer particles in soil material. If coarser particles are present (coarse sand, gravel, cobbles), the finer particles act as matrix and may govern the behavior of the soil mass. Consistency states depend on water content; with increasing water, the consistency states are solid, semisolid, plastic, and liquid.</span></span>
+<span  class="tooltiptext" style="font-size:14px; text-align:justify; letter-spacing:0.5px; line-height:1.3;">The <span style="color:red; font-weight:bold;">plastic limit</span> is one of the measured parameters of the Atterberg limits, which is used for differentiating the consistency states of finer particles in soil material. If coarser particles are present (coarse sand, gravel, cobbles), the finer particles act as matrix and may govern the behavior of the soil mass. Consistency states depend on water content; with increasing water, the consistency states are solid, semisolid, plastic, and liquid.</span></span>
 </div>
 
 <div class="simsubscreen" id="canvas1" style="visibility:hidden;">
@@ -195,7 +195,7 @@ var temp=0;
 <input id="b6-1" type="button" style="float:right;" value="OK" />
 </span>
 </div>
-	
+
 <div id="canvas7" class="simsubscreen" style="visibility:hidden;">
 <strong class="incanvas">STEP</strong>
 <span class="circlebg">&nbsp;7&nbsp;</span>
@@ -216,7 +216,7 @@ var temp=0;
 <input id="b7-1" type="button" style="float:right;" value="OK" />
 </span>
 </div>
-	
+
 <div id="canvas8" class="simsubscreen" style="visibility:hidden;">
 <strong class="incanvas">STEP</strong>
 <span class="circlebg">&nbsp;8&nbsp;</span>
@@ -289,7 +289,7 @@ var temp=0;
 <tr>
 <td style="border:1px solid black; padding:5px;">Trial No.</td>
 <td id="t1" style="border:1px solid black; padding:10px;"></td>
-</tr> 
+</tr>
 <!-- <tr> -->
 <!-- <td style="border:1px solid black; padding:5px;">Water to be added</td> -->
 <!-- <td id="t2" style="border:1px solid black; padding:10px;"></td> -->
@@ -297,15 +297,15 @@ var temp=0;
 <tr>
 <td style="border:1px solid black; padding:5px;">Weight of container, W<sub>1</sub></td>
 <td id="t2" style="border:1px solid black; padding:10px;"></td>
-</tr> 
+</tr>
 <tr>
 <td style="border:1px solid black; padding:5px;">Weight of container + wet soil, (W<sub>2</sub>)</td>
 <td id="t3" style="border:1px solid black; padding:10px;"></td>
-</tr> 
+</tr>
 <tr>
 <td style="border:1px solid black; padding:5px;">Weight of container + oven dry soil, W<sub>3</sub></td>
 <td id="t4" style="border:1px solid black; padding:10px;"></td>
-</tr> 
+</tr>
 <!-- <tr> -->
 <!-- <td style="border:1px solid black; padding:5px;">Weight of container + dry soil, W<sub>4</sub></td> -->
 <!-- <td id="t6" style="border:1px solid black; padding:10px;"></td> -->
@@ -317,11 +317,11 @@ var temp=0;
 	<tr>
 	<td style="border:1px solid black; padding:5px;">Weight of water, W<sub>4</sub> (g)</td>
 	<td style="border:1px solid black; padding:10px;">W<sub>2</sub> - W<sub>3</sub> </td>
-	</tr> 
+	</tr>
 	<tr>
 	<td style="border:1px solid black; padding:5px;">Weight of dry soil, W<sub>5</sub> (g)</td>
 	<td style="border:1px solid black; padding:10px;">W<sub>3</sub> - W<sub>1</sub> </td>
-	</tr>     
+	</tr>
 	</table>
 
 	<h3 style="position:absolute; left:375px; top:60px;">&nbsp;Calculations:</h3>
@@ -332,16 +332,16 @@ var temp=0;
 	</tr>
 	<tr>
 		<td style="padding:5px; text-align:right;">=</td>
-		<td>&nbsp;&nbsp;&nbsp;<input id="wc" type="text" style=" border:none; border-bottom-style:double; width:55px; " required > % 
+		<td>&nbsp;&nbsp;&nbsp;<input id="wc" type="text" style=" border:none; border-bottom-style:double; width:55px; " required > %
 		<span id="mark1" style="font-size:22px; visibility:hidden;" ></span></td>
 	</tr>
 	<tr>
 	<td style="padding:5px;"></td>
 	<td id="" style="padding:15px;">
-		<input id="chk1" class="clsBtn" type="button" name="check" value="Check" /> 
+		<input id="chk1" class="clsBtn" type="button" name="check" value="Check" />
 		<input id="res1" class="clsBtn" type="button" name="Formula" value="Result" disabled />
 	</td>
-	</tr>   
+	</tr>
 	</table>
 </div>
 
@@ -363,13 +363,13 @@ var temp=0;
 	</span>
 </td>
 <td style="text-align:center; font-family:verdana; font-size:12px; padding: 5px;">
-	<span class="TTText">Weight of dry soil, W<sub>5</sub> (g) 
+	<span class="TTText">Weight of dry soil, W<sub>5</sub> (g)
 		<span  class="TTFormula" style="font-size:12px;">W<sub>5</sub> = W<sub>3</sub> - W<sub>1</sub> </span>
 	</span>
 </td>
 <td style="text-align:center; font-family:verdana; font-size:12px; padding: 5px;">
 	<span class="TTText">Water content, W (%)
-		<span  class="TTFormula" style="font-size:12px;">W = 
+		<span  class="TTFormula" style="font-size:12px;">W =
 			<span class="frac"><sup>W<sub>4</sub></sup><span>&frasl;</span><sub>W<sub>5</sub></sub></span> x 100
 		</span>
 	</span>
@@ -381,14 +381,14 @@ var temp=0;
 	<table id="ft" style="position:absolute; left:-40px; top:280px; font-size:14px;  text-align:left; visibility:hidden;">
 	<tr>
 		<td style="padding:5px;">Average water content =</td>
-		<td>&nbsp;<input id="awc" type="text" style=" border:none; border-bottom-style:double; width:55px; " required > % 
+		<td>&nbsp;<input id="awc" type="text" style=" border:none; border-bottom-style:double; width:55px; " required > %
 		<span id="mark2" style="font-size:22px; visibility:hidden;" ></span>&nbsp;</td>
 		<td><input id="chk2" class="clsBtn" type="button" name="check" value="Check" /> </td>
 		<td><input id="res2" class="clsBtn" type="button" name="Formula" value="Result" disabled /></td>
 		<!-- <td id="" style="padding:10px;"><span class="frac"><sup>Weight of water</sup><span>&frasl;</span><sub>Weight of dry soil</sub></span> x 100 </td> -->
-	</tr>  
+	</tr>
 	</table>
-	
+
 	<table id="pi" style="position:absolute; left:-40px; top:330px; font-size:14px;  text-align:left; visibility:hidden;">
 	<tr>
 		<td style="padding:5px;">Plasticity index, I<sub>P</sub> =</td>
@@ -396,25 +396,25 @@ var temp=0;
 	</tr>
 	<tr>
 		<td style="padding:5px; text-align:right;">=</td>
-		<td>&nbsp;&nbsp;&nbsp;<input id="ip" type="text" style=" border:none; border-bottom-style:double; width:55px; " required > % 
+		<td>&nbsp;&nbsp;&nbsp;<input id="ip" type="text" style=" border:none; border-bottom-style:double; width:55px; " required > %
 		<span id="mark3" style="font-size:22px; visibility:hidden;" ></span></td>
 	</tr>
 	<tr>
 	<td style="padding:5px;"></td>
 	<td id="" style="padding:15px;">
-		<input id="chk3" class="clsBtn" type="button" name="check" value="Check" /> 
+		<input id="chk3" class="clsBtn" type="button" name="check" value="Check" />
 		<input id="res3" class="clsBtn" type="button" name="Formula" value="Result" disabled />
 	</td>
-	</tr>   
+	</tr>
 	</table>
-	
+
 	<div id="note" style="position:absolute; left:350px; top:330px; font-size:12px; padding:10px; border:1px double black; visibility:hidden;">
 	<p>W<sub>P</sub> = Plastic limit of given soil sample = Average water content</p>
 	<p>W<sub>L</sub> = Liquid limit of given soil sample = 25.3 (Obtained in Liquid limit test experiment)</p>
 	</div>
-	
+
 	<p id="plas" style="position:absolute; left:250px; top:280px; font-size:14px; visibility:hidden;" >Plastic limit of given soil sample</p>
-	
+
 	<div id="inf" style="visibility:hidden;"><span class="tooltip" style="border-bottom:1px dotted; color:red; position:absolute; left:-32px; top:425px; cursor:pointer;"><strong>Inference</strong>
 	<span  class="tooltiptext" style="font-size:14px; position:absolute; left:10px; top:0px; width:350px; text-align:justify;">The plasticity index of soil is = 15.07%, as it ranges between 7% - 17% the soil can be classified as a medium plastic cohesive soil.
 	</span></span></div>
@@ -436,7 +436,7 @@ var temp=0;
 
 <img class ="" id="arrow1" style="visibility:hidden;" src="images/arrow1.png"/>
 
-<div id="copyright"> &copy; 2019 - <script>document.write(new Date().getFullYear())</script> SOLVE - The Virtual Lab @ NITK Surathkal, Department of Water Resources & Ocean Engineering</div>
+<div id="copyright"> &copy; 2020 - <script>document.write(new Date().getFullYear())</script> SOLVE - The Virtual Lab @ NITK Surathkal, Department of Water Resources & Ocean Engineering</div>
 </div>
-</body> 
+</body>
 </html>
