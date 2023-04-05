@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The property of a soil that allows it to be deformed rapidly, without rupture is ________________ .",
+      "answers": {
+        "a": "Elasticity",
+        "b": "Plasticity",
+        "c": "Tenacity",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Elasticity is the property of soil under which the soil undergoes deformations and regains its original shape after removal of load.",
+        "b": "Correct answer. Plasticity is the property of soil under which the soil undergoes deformations without cracking and rupture.",
+        "c": "Tenacity is the property of soil where it provides resistance to change in shape or deformations.",
+        "d": "As plasticity is the right option for this question, none of the mentioned option turns out to be false and hence is the wrong option."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The Swedish agriculturist who divided the entire range of consistency from liquid to solid state is ________________ .",
+      "answers": {
+        "a": "Dupuit's",
+        "b": "Laplace",
+        "c": "Boussinesq",
+        "d": "Atterberg"
+      },
+      "explanations": {
+        "a": "The consistency limits were found out by Atterberg and not Dupit.",
+        "b": "The consistency limits were found out by Atterberg and not Laplace.",
+        "c": "The consistency limits were found out by Atterberg and not Boussinesq.",
+        "d": "Correct answer. The consistency limits were found out by Atterberg."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not useful for engineer purposes, as proposed by Atterberg?",
+      "answers": {
+        "a": "Plastic limit",
+        "b": "Liquid limit",
+        "c": "Shrinkage limit",
+        "d": "Solid limit"
+      },
+      "explanations": {
+        "a": "The Atterberg's consistency limits provides us a standard for understanding the condition of soil based on its water content, and as plastic limit is when the soil starts to deform it forms to be one of the important  parameter for engineering purposes.",
+        "b": "The Atterberg's consistency limits provide us a standard for understanding the condition of soil based on its water content, and as the liquid limit is when the soil starts to freely flow and possess minimum shear strength it forms to be one of the important  parameter for engineering purposes.",
+        "c": "The Atterberg's consistency limits provides us a standard for understanding the condition of soil based on its water content, and as shrinkage limit is when the soil transitions from solid to semi-solid state it forms to be one of the important parameter for engineering purposes.",
+        "d": "Correct answer. The Atterberg's consistency limits provides us a standard for understanding the condition of soil based on its water content, and as in solid limit water content does not affect the strength properties of the soil, it is not of major concern for engineering purposes."
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Clay does not become plastic when mixed with ________________ .",
+      "answers": {
+        "a": "Kerosene",
+        "b": "Oil",
+        "c": "Soap solution",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct answer. According to Goldschmidt theory, clay does not become plastic when mixed with non-polarizing agents, as kerosene is a non-polarizing agent, clay does not become plastic with this liquid.",
+        "b": "According to Goldschmidt theory, clay does not become plastic when mixed with non-polarizing agents, as oil is a polarizing agent, clay does become plastic with this liquid.",
+        "c": "According to Goldschmidt theory, clay does not become plastic when mixed with non-polarizing agents, as soap solution is a polarizing agent, clay does become plastic with this liquid.",
+        "d": "According to Goldschmidt theory, clay does not become plastic when mixed with non-polarizing agents, as kerosene is a non-polarizing agent, clay does not become plastic with this liquid. As one of the options given above is correct, option 'none of the above' is incorrect."
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "In consistency of soil, the limits are expressed in terms of ________________ .",
+      "answers": {
+        "a": "Area",
+        "b": "Percent water content",
+        "c": "Volume",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "By the definition of Atterberg's Limits we know that the amount of water is what defines the state of soil and as the area does not play any role in consistency limits, it cannot be expressed in terms of area.",
+        "b": "Correct answer. By the definition of Atterberg's Limits we know that the amount of water is what defines the state of soil and thus the consistency limits are expressed as percent water content.",
+        "c": "By the definition of Atterberg's Limits we know that the amount of water is what defines the state of soil and as the volume does not play any role in consistency limits, it cannot be expressed in terms of volume.",
+        "d": "By the definition of Atterberg's Limits we know that the amount of water is what defines the state of soil and as the area and volume do not play any role in consistency limits, it cannot be expressed in terms of area as well as volume."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
