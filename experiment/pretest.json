@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The liquid limit can be defined as the arbitrary limit of water content at which the soil is just about to pass from the _____ state into the _______ state.",
+      "question": "The liquid limit can be defined as the arbitrary limit of water content at which the soil is just about to pass from the ________________ state into the ________________ state.",
       "answers": {
         "a": "Liquid to solid",
         "b": "Plastic to solid",
@@ -19,7 +19,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "The plastic limit is the water content where soil starts to exhibit _________ behaviour.",
+      "question": "The plastic limit is the water content where soil starts to exhibit ________________ behaviour.",
       "answers": {
         "a": "Liquid",
         "b": "Semi solid",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The codebook referred for conducting liquid limit, and the plastic limit is _________________________ .",
+      "question": "The codebook referred for conducting liquid limit, and the plastic limit is ________________ .",
       "answers": {
         "a": "IS : 2720 part 5 1975",
         "b": "IS : 2720 part 5 1985",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Plasticity index can be calculated by _________________ .",
+      "question": "Plasticity index can be calculated by ________________ .",
       "answers": {
         "a": "Ip= LL – PL",
         "b": "Ip= PL – LL",
@@ -70,7 +70,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "If the value of the liquid limit is less than 35%, then the compressibility is _____.",
+      "question": "If the value of the liquid limit is less than 35%, then the compressibility is ________________ .",
       "answers": {
         "a": "High",
         "b": "Intermediate",
