@@ -39,60 +39,60 @@ Mainly there are three Atterberg limits namely:
 
 <p style="text-indent:50px; text-align: justify;">When the plastic limit cannot be determined, the material is non-plastic (NP). The plasticity index for sand is zero. For evaluating the plasticity properties of soil, it has been found desirable to use both the liquid limit and the plasticity index values. </p> </p>
 
-<p style="text-indent:50px; text-align: justify;">Soil can be classified based on the liquid limit as follows: </p>
+<p style="\text-align: justify;">Soil can be classified based on the liquid limit as follows: </p>
 
 
-	<table style="text-align:center;">
-	<tr>
-	  <th>Liquid limit (%)</th>
-	  <th>Compressibility</th>
-	</tr>
-	<tr>
-	  <td> &lt; 35 </td>
-	  <td>Low</td>
-	</tr>
-	<tr>
-	  <td> 35 - 50 </td>
-	  <td>Intermediate</td>
-	</tr>
-	<tr>
-	  <td> &gt; 50 </td>
-	  <td>High</td>
-	</tr>
-	</table>
+<table style="text-align:center;">
+<tr>
+  <th>Liquid limit (%)</th>
+  <th>Compressibility</th>
+</tr>
+<tr>
+  <td> &lt; 35 </td>
+  <td>Low</td>
+</tr>
+<tr>
+  <td> 35 - 50 </td>
+  <td>Intermediate</td>
+</tr>
+<tr>
+  <td> &gt; 50 </td>
+  <td>High</td>
+</tr>
+</table>
 
-	<table style="text-align: center;">
-	<tr>
-	  <th>Plasticity index</th>
-	  <th>Soil type</th>
-		<th>Degree of plasticity</th>
-	  <th>Degree of cohesiveness</th>
-	</tr>
-	<tr>
-	  <td>0</td>
-	  <td>Sand</td>
-		<td>Non-plastic</td>
-	  <td>Non-cohesive</td>
-	</tr>
-	<tr>
-	  <td><7</td>
-	  <td>Silt</td>
-		<td>Low plastic</td>
-	  <td>Partly-cohesive</td>
-	</tr>
-	<tr>
-	  <td>7-17</td>
-	  <td>Silt clay</td>
-		<td>Medium plastic</td>
-	  <td>Cohesive</td>
-	</tr>
-	<tr>
-	  <td>>17</td>
-	  <td>Clay</td>
-		<td>High plastic</td>
-	  <td>Cohesive</td>
-	</tr>
-	</table>
+<table style="text-align: center;">
+<tr>
+  <th>Plasticity index</th>
+  <th>Soil type</th>
+	<th>Degree of plasticity</th>
+  <th>Degree of cohesiveness</th>
+</tr>
+<tr>
+  <td>0</td>
+  <td>Sand</td>
+	<td>Non-plastic</td>
+  <td>Non-cohesive</td>
+</tr>
+<tr>
+  <td><7</td>
+  <td>Silt</td>
+	<td>Low plastic</td>
+  <td>Partly-cohesive</td>
+</tr>
+<tr>
+  <td>7-17</td>
+  <td>Silt clay</td>
+	<td>Medium plastic</td>
+  <td>Cohesive</td>
+</tr>
+<tr>
+  <td>>17</td>
+  <td>Clay</td>
+	<td>High plastic</td>
+  <td>Cohesive</td>
+</tr>
+</table>
 
 
 
