@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The property of a soil that allows it to be deformed rapidly, without rupture is ______ .",
+      "question": "The property of a soil that allows it to be deformed rapidly, without rupture is ________________ .",
       "answers": {
         "a": "Elasticity",
         "b": "Plasticity",
@@ -19,7 +19,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "The Swedish agriculturist who divided the entire range of consistency from liquid to solid state is __________ .",
+      "question": "The Swedish agriculturist who divided the entire range of consistency from liquid to solid state is ________________ .",
       "answers": {
         "a": "Dupuit's",
         "b": "Laplace",
@@ -53,7 +53,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "Clay does not become plastic when mixed with ___________ .",
+      "question": "Clay does not become plastic when mixed with ________________ .",
       "answers": {
         "a": "Kerosene",
         "b": "Oil",
@@ -70,7 +70,7 @@
       "difficulty": "advanced"
     },
     {
-      "question": "In consistency of soil, the limits are expressed in terms of__________ .",
+      "question": "In consistency of soil, the limits are expressed in terms of ________________ .",
       "answers": {
         "a": "Area",
         "b": "Percent water content",
