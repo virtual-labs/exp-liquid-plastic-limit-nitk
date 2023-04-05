@@ -41,7 +41,7 @@ Mainly there are three Atterberg limits namely:
 
 <p style="text-indent:50px; text-align: justify;">Soil can be classified based on the liquid limit as follows: </p>
 
-<center>
+
 	<table style="text-align:center;">
 	<tr>
 	  <th>Liquid limit (%)</th>
@@ -60,9 +60,7 @@ Mainly there are three Atterberg limits namely:
 	  <td>High</td>
 	</tr>
 	</table>
-</center>
 
-<center>
 	<table style="text-align: center;">
 	<tr>
 	  <th>Plasticity index</th>
@@ -95,7 +93,7 @@ Mainly there are three Atterberg limits namely:
 	  <td>Cohesive</td>
 	</tr>
 	</table>
-</center>
 
-<center>
-<p style="font-size:10px;">( Source: <a href=" https://www.researchgate.net/figure/Types-of-soils-based-on-plasticity-index_tbl3_331920626"> https://www.researchgate.net/figure/Types-of-soils-based-on-plasticity-index_tbl3_331920626</a> )</p></center>
+
+
+<p style="font-size:10px;">( Source: <a href=" https://www.researchgate.net/figure/Types-of-soils-based-on-plasticity-index_tbl3_331920626"> https://www.researchgate.net/figure/Types-of-soils-based-on-plasticity-index_tbl3_331920626</a> )</p></
